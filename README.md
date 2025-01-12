@@ -16,10 +16,13 @@ Fuel Price Variations: When there are significant deviations in fuel cost that d
 
 ## Features
 *Data Input:* Reads fuel consumption data from a .csv file.
+
 *Z-Score Calculation:* Leverages pre-calculated Z-scores from the dataset to identify outliers.
+
 *Data Analysis:*
 - Metric Used: (Fuel (Liters) * Base Price) / KM
 - Anomalies are flagged using Z-scores, with thresholds set at Z > 1.5 or Z < -1.5.
+- 
 *Visualizations:*
 - Scatter plots showing Z-scores over time.
 - Anomalies highlighted based on Z-score thresholds.
