@@ -4,9 +4,15 @@
 This project visualizes fuel cost data with Z-scores to identify anomalies. The dataset contains daily fuel costs for drivers, and the Z-scores help highlight outliers.
 
 ## Features
-- Calculate Z-scores (if not pre-calculated).
-- Highlight anomalies based on Z-scores.
-- Visualize data trends over time.
+#Data Input: #Reads fuel consumption data from a .csv file.
+#Z-Score Calculation:# Leverages pre-calculated Z-scores from the dataset to identify outliers.
+
+#Visualizations:#
+Scatter plots showing Z-scores over time.
+
+Anomalies highlighted based on Z-score thresholds.
+
+Threshold Customization: Users can adjust Z-score thresholds to redefine anomaly detection
 
 ## Dataset
 - `KH Driver.csv`: Contains the fuel cost data, including the calculated Z-scores.
