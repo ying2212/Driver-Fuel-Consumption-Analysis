@@ -30,4 +30,7 @@ Fuel Price Variations: When there are significant deviations in fuel cost that d
 
 ## Dataset
 - `KH Driver.csv`: Contains the fuel cost data, including the calculated Z-scores.
+
+## Example Visualization
+
 <img width="960" alt="Screenshot 2025-01-11 at 8 43 31 PM" src="https://github.com/user-attachments/assets/43476062-5e3d-416e-b060-a6b3fa5225c2" />
