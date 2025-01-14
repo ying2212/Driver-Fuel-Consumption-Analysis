@@ -15,7 +15,7 @@ Fuel Price Variations: When there are significant deviations in fuel cost that d
 
 
 ## Features
-*Data Input:* Reads fuel consumption data from a .csv file.
+*Data Input:* Reads fuel consumption data from excel
 
 *Z-Score Calculation:* Leverages pre-calculated Z-scores from the dataset to identify outliers.
 
